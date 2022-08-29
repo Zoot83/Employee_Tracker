@@ -41,6 +41,8 @@ Website: https://github.com/Zoot83/Employee_Tracker
 
 ## Demo
 
+<img src="assets\Demo.gif" width="550" height="450" />
+
 ## Usage/Examples
 
   
